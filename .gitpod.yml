@@ -4,6 +4,6 @@ image: gitpod/workspace-dotnet
 # image: gitpod/workspace-dotnet-vnc
 
 # for code completion etc in the web version of VS Code:
-#vscode:
- # extensions:
- #   muhammad-sammy.csharp
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
