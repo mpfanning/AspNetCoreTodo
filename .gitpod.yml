@@ -1,9 +1,1 @@
 image: gitpod/workspace-dotnet
-
-# if desktop support required, use the below line instead
-# image: gitpod/workspace-dotnet-vnc
-
-# for code completion etc in the web version of VS Code:
-vscode:
-  extensions:
-    - muhammad-sammy.csharp
